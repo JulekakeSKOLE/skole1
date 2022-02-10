@@ -1,4 +1,7 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@700&display=swap');
+* {
+    font-family: 'Rowdies', cursive;
+}
 .text {
     text-align: center;
     padding-top: 200px;
@@ -6,3 +9,6 @@
     font-size: 50px;
 }
     
+.text span {
+    colour:red
+}
