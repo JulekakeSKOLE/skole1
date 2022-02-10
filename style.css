@@ -2,6 +2,10 @@
 * {
     font-family: 'Rowdies', cursive;
 }
+
+body{
+    background-color: black;
+}
 .text {
     text-align: center;
     padding-top: 200px;
@@ -10,5 +14,5 @@
 }
     
 .text span {
-    colour:red
+    color:red
 }
